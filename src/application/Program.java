@@ -53,23 +53,6 @@ public class Program {
 		
 		System.out.println("\n" + order);
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		sc.close();
 
 	}
